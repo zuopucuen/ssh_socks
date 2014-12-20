@@ -5,7 +5,7 @@ import socks_ssh
 server = '127.0.0.1'
 port = 10000
 user = 'root'
-password = 'zzzzzzz'
+password = 'password'
 bind_addr = '0.0.0.0'
 bind_port = 1080
 t_num = 10
